@@ -1,0 +1,42 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI-Based Network Traffic Analyzer thumbnail">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07141f" />
+      <stop offset="100%" stop-color="#0a2f46" />
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="700" fill="url(#bg)" />
+  <circle cx="150" cy="120" r="180" fill="#0f766e" opacity="0.14" />
+  <circle cx="1040" cy="620" r="220" fill="#0891b2" opacity="0.16" />
+
+  <g stroke="url(#line)" stroke-width="4" opacity="0.55">
+    <line x1="130" y1="540" x2="330" y2="360" />
+    <line x1="330" y1="360" x2="540" y2="450" />
+    <line x1="540" y1="450" x2="780" y2="300" />
+    <line x1="780" y1="300" x2="1020" y2="390" />
+    <line x1="330" y1="360" x2="420" y2="220" />
+    <line x1="780" y1="300" x2="870" y2="170" />
+  </g>
+
+  <g fill="#d1fae5">
+    <circle cx="130" cy="540" r="16" />
+    <circle cx="330" cy="360" r="16" />
+    <circle cx="540" cy="450" r="16" />
+    <circle cx="780" cy="300" r="16" />
+    <circle cx="1020" cy="390" r="16" />
+    <circle cx="420" cy="220" r="16" />
+    <circle cx="870" cy="170" r="16" />
+  </g>
+
+  <rect x="72" y="70" width="660" height="120" rx="16" fill="#061018" opacity="0.78" />
+  <text x="102" y="122" fill="#f8fafc" font-size="44" font-family="Segoe UI, Arial, sans-serif" font-weight="700">AI-Based Network Traffic Analyzer</text>
+  <text x="102" y="164" fill="#99f6e4" font-size="24" font-family="Segoe UI, Arial, sans-serif">Real-time packet intelligence with ML-driven classification</text>
+
+  <rect x="70" y="580" width="290" height="56" rx="10" fill="#0f172a" opacity="0.85" />
+  <text x="94" y="617" fill="#22d3ee" font-size="24" font-family="Consolas, monospace">Python • Scapy • ML</text>
+</svg>
