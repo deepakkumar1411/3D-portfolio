@@ -5,7 +5,7 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "AI-Based Network Traffic Analyzer",
+    title: "Network Traffic Analyzer using Deep Packet Inspection",
     category: "Real-Time Traffic Classification",
     tools: "Python, Scapy, Scikit-learn, Machine Learning",
     image: "/images/project-network-analyzer.svg",
