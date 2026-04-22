@@ -25,6 +25,13 @@ const projects = [
     image: "/images/project-ai-code-review.svg",
     link: "https://github.com/deepakkumar1411/AI-code-review-assistant.git",
   },
+  {
+    title: "Asset Management System",
+    category: "Web-based system for efficient asset organization and tracking",
+    tools: "Python (FastAPI), PostgreSQL, SQLAlchemy, React (Vite), Redux Toolkit",
+    image: "/images/project-asset-management.svg",
+    link: "https://github.com/deepakkumar1411/asset_management.git",
+  },
 ];
 
 const Work = () => {
